@@ -1,5 +1,5 @@
-### Hi there 👋
-
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=yujincheng08&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yujincheng08&layout=compact&hide=VHDL,Coq,Verilog,Tcl,Jupyter%20Notebook)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **yujincheng08/yujincheng08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
