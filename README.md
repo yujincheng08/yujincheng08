@@ -3,7 +3,7 @@
 </picture>
 
 <picture>
-  <img src="https://github-readme-stats-yujincheng08.vercel.app/api/top-langs/?username=yujincheng08&layout=compact&exclude_repo=Hardware-Course&hide=Jupyter%20Notebook,MATLAB&role=OWNER,ORGANIZATION_MEMBER&langs_count=10">
+  <img src="https://github-readme-stats-yujincheng08.vercel.app/api/top-langs/?username=yujincheng08&layout=compact&exclude_repo=Hardware-Course&hide=Jupyter%20Notebook,MATLAB&role=OWNER,ORGANIZATION_MEMBER&langs_count=12">
 </picture>
 
 <!--
